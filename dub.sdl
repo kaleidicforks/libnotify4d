@@ -1,0 +1,8 @@
+name "libnotify4d"
+description "A D binding for libnotify"
+authors "alphaKAI"
+copyright "Copyright © 2017, alphakai"
+license "MIT"
+dependency "glib-d" path="glib-d"
+//dependency "glib-d" version="~master"
+libs "notify"

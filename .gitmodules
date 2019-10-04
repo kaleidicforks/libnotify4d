@@ -1,0 +1,3 @@
+[submodule "glib-d"]
+	path = glib-d
+	url = https://github.com/kaleidicforks/glib-d
